@@ -1,0 +1,27 @@
+#a dictionary of nouns to learn
+nouns = {
+    "Man": "Hombre",
+    "Store": "Tienda",
+    "Day": "Dia", 
+    "Hand": "Mano",
+    "Way": "Manera",
+    "Eye": "Ojo",
+    "Thing": "Cosa",
+    "Year": "año",
+    "Room": "Cuarto",
+    "Door": "Puerta",
+    "Woman": "Mujer",
+    "Face": "Cara",
+    "Mother": "Madre",
+    "People": "Gente",
+    "Night": "Noche",
+    "House": "Casa",
+    "Father": "Padre",
+    "Life": "Vida",
+    "Back": "Espalda",
+    "Voice": "Voz",
+    "Girl": "niña",
+    "Place": "Lugar",
+    "Boy": "niño",
+    "Car": "Carro"
+}
